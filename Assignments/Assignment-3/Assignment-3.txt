@@ -1,0 +1,22 @@
+Example-dependent cost-sensitive regression(assignment)
+
+20 points
+1. Max 5 members per team
+2. You need to identify and prepare a nice document on your findings like you write a research paper
+       A. Problem statement
+       B. Description of the dataset
+       C. Algorithm used
+       D. Results
+
+Description of the data set. 
+
+1. Columns A to J are independent variables
+2. Column K is the dependent variable
+3. Column L is the false negative cost, varying from row to row based on the risk parameter details.
+4. True Positive and False Positive cost is constant for all, which is 6
+5. True Negative cost is constant for all, which is  0
+
+
+Marks
+10 for implementation using. Bahnsen approach(5 Marks for coding and 5 marks for results)
+10 marks for Nikou Gunnemann's approach (5 Marks for coding and 5 marks for results)

@@ -1,0 +1,19 @@
+Trust Rank Assignment
+
+20 points
+Computing trust rank
+
+1. Max 5 members per team
+2. You need to identify and prepare a nice document on your findings like you write a research paper
+       A. Problem statement
+       B. Description of the dataset
+       C. Algorithm used
+       D. Results
+3. Each row in the data set is one payment (sender, Receiver, value). Bad nodes are given in a separate file 
+4. At the top of the document write the roll numbers of your team members
+
+
+Marks
+ 5 marks for documentation
+ 10 marks for implementation
+ 5 marks for results
